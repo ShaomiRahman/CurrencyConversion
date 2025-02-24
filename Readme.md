@@ -37,6 +37,12 @@ Ensure the following tools are installed:
 | **Maven**  | Latest  | [Download Maven](https://maven.apache.org/download.cgi) |
 | **IDE**    | IntelliJ IDEA or VS Code | [IntelliJ](https://www.jetbrains.com/idea/download/) / [VS Code](https://code.visualstudio.com/) |
 
+### ** Clone the Repository**
+```sh
+git clone https://github.com/ShaomiRahman/CurrencyConversion.git
+```
+
+
 ###  Set Up the Project in IDE
 1. Click "Open Project" and select the HomeTaskCFG folder
 2. Wait for Maven to resolve dependencies
