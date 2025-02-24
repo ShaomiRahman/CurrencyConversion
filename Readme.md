@@ -37,7 +37,7 @@ Ensure the following tools are installed:
 | **Maven**  | Latest  | [Download Maven](https://maven.apache.org/download.cgi) |
 | **IDE**    | IntelliJ IDEA or VS Code | [IntelliJ](https://www.jetbrains.com/idea/download/) / [VS Code](https://code.visualstudio.com/) |
 
-### ** Clone the Repository**
+### Clone the Repository
 ```sh
 git clone https://github.com/ShaomiRahman/CurrencyConversion.git
 ```
